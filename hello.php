@@ -1,2 +1,5 @@
 <? php
-echo "hello friend";
+
+session_start();
+echo 'hello people';
+
